@@ -49,22 +49,26 @@ Este proyecto se realizará en dos partes, en la primera parte realizaremos una 
        - [Optimización de hiperparámetros](#s-231)
            
    - [**Tercera parte: Modelos Avanzados**](#s-3)
+   
      - [Ridge](#s-311)
           -[Optimización de hiperparámetros](#s-311a)
           -[Aciertos y Desaciertos](#s-3raciertos3)   
           -[Importancia predictores](#s-311b)
+          
      - [Lasso](#s-312)
          -[Optimización de hiperparámetros](#s-312a)
          -[Aciertos y Desaciertos](#s-3raciertos4)
          -[Importancia predictores](#s-312b)
+         
      - [xgboots](#s-32)
          -[Optimización de hiperparámetros](#s-321)
          -[Aciertos y Desaciertos](#s-3raciertos5)
          -[Importancia de predictores](#s322)
-    - [RandomForest](#s-33)
-       - [Aciertos y Desaciertos](#s-3raciertos6)
-       - [Optimización de hiperparámetros](#s-331)
-       - [Importancia predictores](#s-332)
+         
+     - [RandomForest](#s-33)
+          -[Aciertos y Desaciertos](#s-3raciertos6)
+          -[Optimización de hiperparámetros](#s-331)
+          -[Importancia predictores](#s-332)
       
   - [**Comparación modelos**](#s-4) 
   
