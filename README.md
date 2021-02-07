@@ -36,14 +36,14 @@ Este proyecto se realizará en dos partes, en la primera parte realizaremos una 
      - [Variables númericas discretas](#s-13) 
       - [Predición batrooms faltantes](s-131) 
      
-    - [**Segunda parte: Modelos simples mejorados**](#s-2)
+  - [**Segunda parte: Modelos simples mejorados**](#s-2)
      - [Benchmark](#s-21)
-       - [Aciertos y Desaciertos](#s-3raciertos)  
-       - [Importancia predictores](#s-21a)
+      - [Aciertos y Desaciertos](#s-3raciertos)  
+      - [Importancia predictores](#s-21a)
      - [DecisionTree](#s-22)
-        - [Optimización de hiperparámetros](#s-221)
-          -  [Aciertos y Desaciertos](#s-3raciertos2)      
-          -  [Importancia predictores](#s-221a)
+      - [Optimización de hiperparámetros](#s-221)
+      - [Aciertos y Desaciertos](#s-3raciertos2)      
+      - [Importancia predictores](#s-221a)
      -[KNeighbors  ](#s-23)
        - [Aciertos y Desaciertos](#s-3raciertos3)
        - [Optimización de hiperparámetros](#s-231)
@@ -67,9 +67,9 @@ Este proyecto se realizará en dos partes, en la primera parte realizaremos una 
       - [Optimización de hiperparámetros](#s-331)
       - [Importancia predictores](#s-332)
       
-  [**Comparación modelos**](#s-4) 
+  - [**Comparación modelos**](#s-4) 
   
-  [**Conclusiones**](#s-5)
+  - [**Conclusiones**](#s-5)
   
   [**Extra**](#s-6)
     - [Detección de outliers de forma gráfica](#s-61)
