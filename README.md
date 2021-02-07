@@ -74,5 +74,5 @@ Este proyecto se realizará en dos partes, en la primera parte realizaremos una 
   
   - [**Conclusiones**](#s-5)
   
-  [**Extra**](#s-6)
+  - [**Extra**](#s-6)
     - [Detección de outliers de forma gráfica](#s-61)
