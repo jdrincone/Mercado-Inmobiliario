@@ -25,7 +25,7 @@ Este proyecto se realizará en dos partes, en la primera parte realizaremos una 
 - [Conclusiones](#s-15)      
 
 ### Segundo
-[**Primera parte: EDA**](#s-1)
+  - [**Primera parte: EDA**](#s-1)
     - [Tratamiento nulos](#s-10)
     - [Features ](#s-11)
      - [Variables categóricas](#s-112)
@@ -34,9 +34,9 @@ Este proyecto se realizará en dos partes, en la primera parte realizaremos una 
      - [**Transformación variables continuas**](#s-113b)
      - [Correlación](#s-12)
      - [Variables númericas discretas](#s-13) 
-      -[Predición batrooms faltantes](s-131) 
+      - [Predición batrooms faltantes](s-131) 
      
-  [**Segunda parte: Modelos simples mejorados**](#s-2)
+    - [**Segunda parte: Modelos simples mejorados**](#s-2)
      - [Benchmark](#s-21)
        - [Aciertos y Desaciertos](#s-3raciertos)  
        - [Importancia predictores](#s-21a)
@@ -48,7 +48,7 @@ Este proyecto se realizará en dos partes, en la primera parte realizaremos una 
        - [Aciertos y Desaciertos](#s-3raciertos3)
        - [Optimización de hiperparámetros](#s-231)
            
-  [**Tercera parte: Modelos Avanzados**](#s-3)
+   - [**Tercera parte: Modelos Avanzados**](#s-3)
     - [Regresión lineal con regularización](#s-31)
       - [Ridge]((#s-311)
        - [Optimización de hiperparámetros](#s-311a)
